@@ -75,7 +75,7 @@ Exercícios SQL
 
 - 2617 - Fornecedor Ajax SA
     
-    ![image.png](attachment:e48b89b1-04d2-4d06-bad2-f46c50821ea5:fda0fce1-01ec-43f3-903a-e90c38bee66f.png)
+    <img width="578" height="320" alt="Image" src="https://github.com/user-attachments/assets/81af718c-c751-429b-86ef-fdaea661f23f" />
     
     ```sql
     select products.name, providers.name
@@ -90,7 +90,7 @@ Exercícios SQL
 
 - 2604 - Menores que 10 ou Maiores que 100
     
-    ![image.png](attachment:b7f6147c-8037-49d2-8a08-786e10f3ec6d:image.png)
+    <img width="558" height="295" alt="Image" src="https://github.com/user-attachments/assets/a5311e21-2e9a-41ef-93f3-0f5b97469778" />
     
     ```sql
     select
@@ -106,7 +106,7 @@ Exercícios SQL
 
 - 2613 - Filmes em Promoção
     
-    ![image.png](attachment:ade9b622-479f-4e2a-b137-ee89c8497fec:image.png)
+    <img width="548" height="301" alt="Image" src="https://github.com/user-attachments/assets/87aa53ab-1c47-456e-933e-5a125f887d6f" />
     
     ```sql
     select 
@@ -123,7 +123,7 @@ Exercícios SQL
 
 - 2610 - Valor Médio dos Produtos
     
-    ![image.png](attachment:57a54793-83f8-4a8f-a3db-a6de5ef7bf7e:image.png)
+    <img width="483" height="303" alt="Image" src="https://github.com/user-attachments/assets/894aca04-688d-4126-8513-515ba179368c" />
     
     ```sql
     select
@@ -136,7 +136,7 @@ Exercícios SQL
 
 - 2618 - Produtos Importados
     
-    ![image.png](attachment:433bb1ea-c79b-4efd-9f31-122b9e491b9f:image.png)
+    <img width="520" height="314" alt="Image" src="https://github.com/user-attachments/assets/3940a593-39d7-4d20-85e0-ed3d325524f6" />
     
     ```sql
     select
@@ -157,7 +157,7 @@ Exercícios SQL
 
 - 2616 - Nenhuma Locação
     
-    ![image.png](attachment:3186c73b-eac0-4f25-ba56-ac4d4ba0072c:image.png)
+    <img width="431" height="302" alt="Image" src="https://github.com/user-attachments/assets/77b8ee7f-f8c8-4217-89a6-06f5a729103a" />
     
     ```sql
     select

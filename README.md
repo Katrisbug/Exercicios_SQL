@@ -1,4 +1,4 @@
-Exercícios SQL
+### _Exercícios SQL_ ###
 - 2607 - Cidades em Ordem Alfabética
     
    <img width="471" height="243" alt="Image" src="https://github.com/user-attachments/assets/08076d56-3184-4039-84fb-96243b4c417c" />

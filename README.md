@@ -1,6 +1,6 @@
 # _🐝Exercícios SQL-BEECROWD_ #
 
-<img width="458" height="110" alt="Image" src="https://github.com/user-attachments/assets/109e90ba-d051-4c54-b758-66a99c658d26" />
+<img width="959" height="311" alt="Image" src="https://github.com/user-attachments/assets/86492f1c-de02-4d91-b134-7e1d694110a0" />
 
 ---
 ## Atividades nível 1 ##

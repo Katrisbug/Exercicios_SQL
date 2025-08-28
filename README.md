@@ -47,7 +47,7 @@ Exercícios SQL
 
 - 2608 - Maior e Menor Preço
     
-    ![image.png](attachment:3bdd6ca0-8f60-4653-9a03-2c92a339efd7:image.png)
+    <img width="417" height="275" alt="Image" src="https://github.com/user-attachments/assets/6149b9af-c3b2-4c28-9ecc-23c1f95297b5" />
     
     ```sql
     select 

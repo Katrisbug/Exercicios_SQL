@@ -14,7 +14,7 @@ Exercícios SQL
 
 - 2602 - Select Básico
     
-    ![image.png](attachment:c2b59077-dede-43e7-bf18-5fffbe619bfb:image.png)
+    <img width="398" height="234" alt="Image" src="https://github.com/user-attachments/assets/b2753734-5c01-469d-98d4-de40949c0547" />
     
     ```sql
     select 

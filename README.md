@@ -1,4 +1,8 @@
-# _🐝Exercícios SQL_ #
+# _🐝Exercícios SQL-BEECROWD_ #
+
+<img width="458" height="110" alt="Image" src="https://github.com/user-attachments/assets/109e90ba-d051-4c54-b758-66a99c658d26" />
+
+---
 ## Atividades nível 1 ##
 - 2607 - Cidades em Ordem Alfabética
     

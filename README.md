@@ -30,7 +30,7 @@ Exercícios SQL
 
 - 2603 - Endereço dos Clientes
     
-    ![image.png](attachment:72f9c5e8-1fbd-4996-9160-bb20bb7652b6:image.png)
+    <img width="411" height="218" alt="Image" src="https://github.com/user-attachments/assets/2d5a6439-51b2-4d46-90f0-fc537a619c41" />
     
     ```sql
     select 

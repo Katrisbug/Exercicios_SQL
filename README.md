@@ -1,7 +1,7 @@
 Exercícios SQL
 - 2607 - Cidades em Ordem Alfabética
     
-    ![image.png](attachment:84a6674f-7561-45cb-8784-5ec42803d4d2:image.png)
+   <img width="471" height="243" alt="Image" src="https://github.com/user-attachments/assets/08076d56-3184-4039-84fb-96243b4c417c" />
     
     ```sql
     select city

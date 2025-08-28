@@ -1,4 +1,5 @@
-### _Exercícios SQL_ ###
+# _Exercícios SQL_ #
+## Atividades nível 1 ##
 - 2607 - Cidades em Ordem Alfabética
     
    <img width="471" height="243" alt="Image" src="https://github.com/user-attachments/assets/08076d56-3184-4039-84fb-96243b4c417c" />
@@ -9,23 +10,6 @@
     order by city asc;
     ```
     
-
----
-
-- 2602 - Select Básico
-    
-    <img width="398" height="234" alt="Image" src="https://github.com/user-attachments/assets/b2753734-5c01-469d-98d4-de40949c0547" />
-    
-    ```sql
-    select 
-        name 
-    from 
-        customers
-    where 
-        state like '%RS%';
-    ```
-    
-
 ---
 
 - 2603 - Endereço dos Clientes
@@ -42,7 +26,6 @@
         city like '%Porto Alegre%';
     ```
     
-
 ---
 
 - 2608 - Maior e Menor Preço
@@ -57,7 +40,6 @@
         products;
     ```
     
-
 ---
 
 - 2615 - Expandindo o Negocio
@@ -69,7 +51,6 @@
         city
     from customers;
     ```
-    
 
 ---
 
@@ -85,7 +66,7 @@
     where providers.name = 'Ajax SA';
     ```
     
-
+## Atividades nível 2 ##
 ---
 
 - 2604 - Menores que 10 ou Maiores que 100
@@ -101,7 +82,6 @@
         price <10 or price >100;
     ```
     
-
 ---
 
 - 2613 - Filmes em Promoção
@@ -117,8 +97,8 @@
         on movies.id_prices = prices.id
     where value < 2.00;
     ```
-    
 
+## Atividades nível 3 ##
 ---
 
 - 2610 - Valor Médio dos Produtos
@@ -131,7 +111,6 @@
     from products;
     ```
     
-
 ---
 
 - 2618 - Produtos Importados
@@ -152,7 +131,23 @@
         and categories.name = 'Imported';
     ```
     
+## Atividade nível 4 ##
+---
 
+- 2602 - Select Básico
+    
+    <img width="398" height="234" alt="Image" src="https://github.com/user-attachments/assets/b2753734-5c01-469d-98d4-de40949c0547" />
+    
+    ```sql
+    select 
+        name 
+    from 
+        customers
+    where 
+        state like '%RS%';
+    ```
+
+## Atividade nível 5 ##
 ---
 
 - 2616 - Nenhuma Locação

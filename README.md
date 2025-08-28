@@ -62,7 +62,7 @@ Exercícios SQL
 
 - 2615 - Expandindo o Negocio
     
-    ![image.png](attachment:5f62ee95-fdd4-4764-8597-ca0831c3f29b:image.png)
+    <img width="408" height="241" alt="Image" src="https://github.com/user-attachments/assets/83d543ec-d062-4dba-9853-ec86347a2933" />
     
     ```sql
     select 
